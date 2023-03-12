@@ -21,7 +21,7 @@ int main() {
 	char type; //"S" for series or "P" for parallel
 	double v; //voltage applied to the circuit
 	double r1, r2, r3; //values of resistances
-	double rt; //value of totla resistance
+	double rt; //value of total resistance
 	double i; //current
 
 	cout << "Enter Circuit type (S or P) and resistances (separated by spaces): ";
