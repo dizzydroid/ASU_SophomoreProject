@@ -3,7 +3,7 @@
   <img src="https://eng.asu.edu.eg/img/logo.png" width="200"/>
 </div>
 
-### **_CSE131s Project_**
+<h2 align="center">CSE131s PROJECT</h2><br>
 
 ## 🤔❓ What's included in this repo?
 
