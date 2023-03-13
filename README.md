@@ -3,9 +3,7 @@
   <img src="https://eng.asu.edu.eg/img/logo.png" width="200"/>
 </div>
 
-```diff
- - CSE131s PROJECT 
-```
+### CSE131s Project
 
 ## 🤔❓ What's included in this repo?
 
