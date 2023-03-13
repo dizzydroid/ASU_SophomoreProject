@@ -13,7 +13,13 @@
 - 📃 PDFs including:
      - Required given tasks
      - My documentation (⚪LIGHT & ⚫DARK themed)
-     
+  
+  h1{
+
+text-align: center;
 <h1> Thank you for visiting 😊 </h1>
+}
+   
+
 
 
