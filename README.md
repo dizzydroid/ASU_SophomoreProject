@@ -9,7 +9,7 @@
 ## 🤔❓ What's included in this repo?
 
 - ⌚ Complete Project progress (ASU_Sophomore CSE131s Capstone project)
-- 📅 Current and final versions of code
+- 📅 Current and previous versions of code
 - 📂 Source files
 - 📝 First access to any edits and extras
 - 📃 PDFs including:
