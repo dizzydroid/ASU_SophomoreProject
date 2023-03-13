@@ -9,7 +9,7 @@
 
 - ⌚ Complete Project progress (ASU_Sophomore CSE131s Capstone project)
 - 📅 Current and previous versions of code
-- 📂 Source files
+- 📂 Source files & Executables
 - 📝 First access to any edits and extras
 - 📃 PDFs including:
      - Required given tasks
