@@ -14,15 +14,11 @@
      - Required given tasks
      - My documentation (⚪LIGHT & ⚫DARK themed)
   
-h1 {
-    width:500px;
-    margin: 0 auto;
-    background: gray;
-    text-align: center;
-}
-<body>
-     <h1>Thanks for visiting</h1>
-</body>
+<p align="center">
+ <h1>Thanks for visiting 😊</h1>
+</p>
+    
+
 
 
 
