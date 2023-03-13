@@ -1,10 +1,10 @@
 # ASU_SophomoreProject
-```diff
-- CSE131s PROJECT 
-```
 <div id="header" align="center">
   <img src="https://eng.asu.edu.eg/img/logo.png" width="200"/>
 </div>
+```diff
+- CSE131s PROJECT 
+```
 
 ## 🤔❓ What's included in this repo?
 
