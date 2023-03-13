@@ -14,10 +14,8 @@
      - Required given tasks
      - My documentation (⚪LIGHT & ⚫DARK themed)
   
-<p align="center">
- <h1>Thanks for visiting 😊</h1>
-</p>
-    
+
+<h1 align="center">Thanks for visiting 😊</h1>
 
 
 
