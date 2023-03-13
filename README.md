@@ -14,6 +14,6 @@
      - Required given tasks
      - My documentation (⚪LIGHT & ⚫DARK themed)
      
-
+<div id="header2" align="center">
 # Thank you for visiting 😊
-
+</div>
