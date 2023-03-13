@@ -17,9 +17,9 @@
   h1{
 
 text-align: center;
-<h1> Thank you for visiting 😊 </h1>
+
 }
-   
+<h1> Thank you for visiting 😊 </h1>
 
 
 
