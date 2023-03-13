@@ -1,6 +1,6 @@
 # ASU_SophomoreProject
-```
-+ diff CSE131s PROJECT 
+```diff
++ CSE131s PROJECT 
 ```
 <div id="header" align="center">
   <img src="https://i.ibb.co/cbrmS8Y/logo-1.png" width="100"/>
