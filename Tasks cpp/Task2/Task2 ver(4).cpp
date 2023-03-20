@@ -7,7 +7,7 @@ using namespace std;
 double Series(string input) {
     double SeriesResistance = 0;
     input = input.substr(2, input.length());
-    while (toupper(input[0]) != 'E') //we assume a user might be lazy and forgets to capitalize 'E' :D
+    while (toupper(input[0]) != 'E') //-> we assume a user might be lazy and forgets to capitalize 'E' :D
     {
         SeriesResistance += stod(input);
         input = input.substr(input.find(" ") + 1, input.length());
