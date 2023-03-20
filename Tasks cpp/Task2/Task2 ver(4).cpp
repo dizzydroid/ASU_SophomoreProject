@@ -50,7 +50,7 @@ int main() {
         cout << "Wrong Circuit Type." << endl;
         return 1; // Terminate program with error code 1
     }
-    cout << "Total resistances: " << rt << endl;
+    cout << "Total resistance: " << rt << endl;
     cout << "Circuit current = " << v / rt << endl;
     return 0;
 }
