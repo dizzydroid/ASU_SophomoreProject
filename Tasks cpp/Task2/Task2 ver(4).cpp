@@ -54,21 +54,3 @@ int main() {
     cout << "Circuit current = " << v / rt << endl;
     return 0;
 }
-
-/* ALTERNATIVE TO SWITCH CASE STATEMENT:
-   if (toupper(input[0]) == 'S')
-    {
-        rt = Series(input);
-    }
-    else if (toupper(input[0]) == 'P')
-    {
-        rt = Parallel(input);
-    }
-    else
-    {
-        cout << "Wrong Circuit Description." << endl;
-        return 1;
-    }
-*/
-
-
