@@ -14,8 +14,10 @@
 - 📃 PDFs including:
      - Required tasks 📑
      - My documentation (⚪LIGHT & ⚫DARK themed)
-  
-<br>
+___________________________________________________________________
+### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_SophomoreProject/discussions) tab and fire away!
+___________________________________________________________________
+
 <h1 align="center">Thanks for visiting 😊</h1>
 
 
