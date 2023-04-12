@@ -4,7 +4,7 @@
 </div>
 
 <div id="header2" align="center">
-  <img src="https://i.ibb.co/dgFVYsw/cse131.png" title="CSE131s Project" width="250"/>
+  <img src="https://i.ibb.co/GpwMLTD/cse131.png" title="CSE131s Project" width="250"/>
 </div>
 
 
