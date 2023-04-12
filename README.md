@@ -12,7 +12,7 @@
 - 📂 Source files & Executables
 - 📝 First access to any edits and extras
 - 📃 PDFs including:
-     - Required tasks
+     - Required tasks 📑
      - My documentation (⚪LIGHT & ⚫DARK themed)
   
 <br>
