@@ -18,7 +18,7 @@
      - Required tasks 📑
      - My documentation (⚪LIGHT & ⚫DARK themed)
 ___________________________________________________________________
-### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_SophomoreProject/discussions) tab and fire away!
+### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_SophomoreProject/discussions) tab and fire away!!
 ___________________________________________________________________
 
 <h1 align="center">Thanks for visiting 😊</h1>
